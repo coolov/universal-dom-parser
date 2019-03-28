@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/coolov/isomorphic-dom-parser/issues"
   },
-  "homepage": "https://github.com/coolov/isomorphic-dom-parser#readme"
+  "homepage": "https://github.com/coolov/isomorphic-dom-parser#readme",
+  "dependencies": {
+    "jsdom": "^14.0.0"
+  }
 }
