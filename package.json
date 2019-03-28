@@ -1,0 +1,20 @@
+{
+  "name": "isomorphic-dom-parser",
+  "version": "1.0.0",
+  "description": "",
+  "browser": "browser.js",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coolov/isomorphic-dom-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coolov/isomorphic-dom-parser/issues"
+  },
+  "homepage": "https://github.com/coolov/isomorphic-dom-parser#readme"
+}
