@@ -2,7 +2,7 @@
   "name": "isomorphic-dom-parser",
   "version": "1.0.0",
   "description": "",
-  "browser": "browser.js",
+  "browser": "dom.js",
   "main": "node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
