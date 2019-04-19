@@ -1,4 +1,4 @@
-# isomorphic-dom-parser
+# universal-dom-parser
 
 ### Usage
 
