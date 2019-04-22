@@ -1,6 +1,6 @@
 {
-  "name": "isomorphic-dom-parser",
-  "version": "1.0.0",
+  "name": "universal-dom-parser",
+  "version": "0.0.3",
   "description": "",
   "browser": "dom.js",
   "main": "node.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coolov/isomorphic-dom-parser.git"
+    "url": "git+https://github.com/coolov/universal-dom-parser.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coolov/isomorphic-dom-parser/issues"
+    "url": "https://github.com/coolov/universal-dom-parser/issues"
   },
-  "homepage": "https://github.com/coolov/isomorphic-dom-parser#readme",
+  "homepage": "https://github.com/coolov/universal-dom-parser#readme",
   "dependencies": {
     "jsdom": "^14.0.0"
   }
